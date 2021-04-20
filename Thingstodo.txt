@@ -1,3 +1,4 @@
 1.Ensayo -->Auditorias
 2. Documento electrónico->Auditorias
-3. Reporte de practicas Front End
+3. Reporte de practicas -->Front End
+4. Reporte de iniciar repositorio-->Devops
